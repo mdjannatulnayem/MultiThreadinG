@@ -33,3 +33,4 @@ int main()
     std::cout << "Micro: " << duration.count()%1000000 << std::endl;
     return 0;
 }
+
